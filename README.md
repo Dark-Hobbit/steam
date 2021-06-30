@@ -8,3 +8,9 @@ Without much surprise, the analysis is going to pay special attention to the gam
 Before going through the effort of gathering the data ourselves let us first explore the existing Steam datasets from Kaggle. While they might not always match the questions perfectly, there are still some insights to be extracted.
 
 The data is not going to be stored on GitHub since some of the files can be rather large in size. Instead, each file will have an ID in the name indicating its source.
+
+### Source 1
+The first dataset contains information on actions of individual people separated into buying games and playing game, with the amount of hours played. We can aggregate that to a game-level data with the number of copies bought and hours played, to analyse the behaviour of those games' players.
+
+## Materials used
+1. https://www.kaggle.com/tamber/steam-video-games
