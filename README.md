@@ -5,7 +5,7 @@ Video games are a huge industry nowadays, with millions of people playing games 
 Without much surprise, the analysis is going to pay special attention to the games I personally have an interest in. That encompasses mostly strategies as they are my long-time favourite genre, and particularly the games created by the Paradox Development Studio - my favourite game creator.
 
 ## Kaggle data analysis
-Before going through the effort of gathering the data ourselves let us first explore the existing Steam datasets from Kaggle. While they might not always match the questions perfectly, there are still some insights to be extracted.
+Before going through the effort of gathering the data ourselves let us first explore the existing Steam datasets from Kaggle. While the data might not always match our questions perfectly I believe there are still some insights to be found.
 
 The data is not going to be stored on GitHub since some of the files can be rather large in size. Instead, each file will have an ID in the name indicating its source.
 
